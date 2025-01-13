@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 IT & Cybersecurity Hands-on Practice:</h2>
 
-- <b> Qwiklabs Environment Practice
-  - [Creating a Folder with Windows](https://www.cloudskillsboost.google/profile/activity?page=3&q%5Bactivity_type_in%5D%5B%5D=LabInstance&utf8=%E2%9C%93)
-  - [Creating a Folder with Linux](https://www.cloudskillsboost.google/profile/activity?page=3&q%5Bactivity_type_in%5D%5B%5D=LabInstance&utf8=%E2%9C%93)
+- <b> IT Project
+  - [Creating a Company Culture for Security - Design Document](https://www.cloudskillsboost.google/profile/activity?page=3&q%5Bactivity_type_in%5D%5B%5D=LabInstance&utf8=%E2%9C%93)
+  
 
 
 <h2> Certifications</h2>
