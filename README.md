@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT & Cybersecurity Hands-on Practice:</h2>
 
 - <b> IT Project
-  - [Creating a Company Culture for Security - Design Document](https://www.cloudskillsboost.google/profile/activity?page=3&q%5Bactivity_type_in%5D%5B%5D=LabInstance&utf8=%E2%9C%93)
+  - [Creating a Company Culture for Security - Design Document](https://docs.google.com/document/d/17BUrJEyw7zGDfJNJUeKLhS36iGiG1wC2FfbKALSNHkE/edit?tab=t.0)
   
 
 
