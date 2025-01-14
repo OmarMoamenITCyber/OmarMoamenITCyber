@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT & Cybersecurity Hands-on Practice:</h2>
 
-- <b> IT Project
-  - [Creating a Company Culture for Security - Design Document](https://docs.google.com/document/d/17BUrJEyw7zGDfJNJUeKLhS36iGiG1wC2FfbKALSNHkE/edit?tab=t.0)
+- <b> IT Support (Hands-on Practice)
+  - [How to Count in Binary](https://imgur.com/5eunve0)
   
 
 
