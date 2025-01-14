@@ -6,7 +6,7 @@
   - [How to Count in Binary](https://github.com/OmarMoamenITCyber/Active-directory-Count-in-Binary)
   - [A  assemble a computer virtually ](https://github.com/OmarMoamenITCyber/Active-Directory-Assemble-a-Computer-virtually)
   - [Creating a Folder with Windows ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Windows)
-  
+  - [Creating a Folder with Linux ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Windows)
 
 
 <h2> Certifications</h2>
