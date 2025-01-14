@@ -4,6 +4,7 @@
 
 - <b> IT Support (Hands-on Practice)
   - [How to Count in Binary](https://github.com/OmarMoamenITCyber/Active-directory-Count-in-Binary)
+  - [A  assemble a computer virtually ](https://github.com/OmarMoamenITCyber/Active-directory-Count-in-Binary)
   
 
 
