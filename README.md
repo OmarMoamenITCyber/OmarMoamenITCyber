@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT & Cybersecurity Hands-on Practice:</h2>
 
 - <b> IT Support (Hands-on Practice)
-  - [How to Count in Binary](https://imgur.com/5eunve0)
+  - [How to Count in Binary](https://github.com/OmarMoamenITCyber/Active-directory-Count-in-Binary)
   
 
 
