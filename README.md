@@ -7,6 +7,7 @@
   - [A  assemble a computer virtually ](https://github.com/OmarMoamenITCyber/Active-Directory-Assemble-a-Computer-virtually)
   - [Creating a Folder with Windows ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Windows)
   - [Creating a Folder with Linux ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Linux)
+  - [Installing, Updating, and Removing Software in Windows](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Linux)
 
 
 <h2> Certifications</h2>
