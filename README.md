@@ -8,7 +8,7 @@
   - [Creating a Folder with Windows ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Windows)
   - [Creating a Folder with Linux ](https://github.com/OmarMoamenITCyber/Qwiklabs-Creating-a-Folder-with-Linux)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/OmarMoamenITCyber/Installing-Updating-and-Removing-Software-in-Windows)
-  - [Installing, Updating and Removing Software in Linux](https://github.com/OmarMoamenITCyber/Installing-Updating-and-Removing-Software-in-Windows)
+  - [Installing, Updating and Removing Software in Linux](https://github.com/OmarMoamenITCyber/Installing-Updating-and-Removing-Software-in-Linux)
 
 
 <h2> Certifications</h2>
